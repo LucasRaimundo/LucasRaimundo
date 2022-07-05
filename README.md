@@ -97,6 +97,6 @@
 <div align="center"></div>
 <br />
 
-![Snake animation](https://github.com/LucasRaimundo/LucasRaimundo/blob/output/github-contribution-grid-snake.svg)
+
 ----
 
