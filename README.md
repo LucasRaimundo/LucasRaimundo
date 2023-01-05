@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Lucas, a backend developer 👨‍💻 </div>  
+### <div align="center">I'm Lucas, a fullstack developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [CourseMC](https://github.com/LucasRaimundo/CourseMC)  
@@ -12,10 +12,10 @@
 - 🌱 I’m currently learning JWT and Ionic  
   
 
-- ❓ Ask me about anything related to Java and related technologies  
+- ❓ Ask me about anything related to development and related technologies like Java and React.
   
 
-- ⚡ Fun fact: I prefer to use the Eclipse IDE  
+- ⚡ Fun fact: I prefer to use dark mode in IDE's.  
   
 
 <br/>  
