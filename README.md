@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning JWT and Ionic  
   
 
-- ❓ Ask me about anything related to development and related technologies like Java and React.
+- ❓ Ask me about anything related to development and related technologies like Java, React and JS.
   
 
 - ⚡ Fun fact: I prefer to use dark mode in IDE's.  
