@@ -6,13 +6,13 @@
 ### <div align="center">I'm Lucas, a fullstack developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [CourseMC](https://github.com/LucasRaimundo/CourseMC)  
+- 🔭 I’m currently working on [D-D Marias](https://github.com/LucasRaimundo/DD-Marias)  
   
 
-- 🌱 I’m currently learning JWT and Ionic  
+- 🌱 I’m currently learning Microservice  
   
 
-- ❓ Ask me about anything related to development and related technologies like Java, React and JS.
+- ❓ Lets talk about programming.
   
 
 - ⚡ Fun fact: I prefer to use dark mode in IDE's.  
