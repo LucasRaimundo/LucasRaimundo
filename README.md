@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Lucas, a fullstack developer 👨‍💻 </div>  
+### <div align="center">I'm Lucas, a Java developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [D-D Marias](https://github.com/LucasRaimundo/DD-Marias)  
