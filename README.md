@@ -19,15 +19,17 @@
 </div> 
  
 ### Main skills:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Spring Framework](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Spring Framework](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Javascript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
  
 ### Tools:
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=atom&logoColor=90ee90&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=90ee90&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
@@ -44,8 +46,8 @@
 
   
 ### Studying in this moment:
-![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Next](https://img.shields.io/badge/-Next-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Next](https://img.shields.io/badge/-Next-0D1117?style=for-the-badge&logo=next&labelColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
